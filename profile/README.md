@@ -1,16 +1,5 @@
 <p align="center">
-  <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="200" width="200" alt="Archcraft"></a>
-</p>
-
-<p align="center">
-  <a href="https://ko-fi.com/adi1090x"><img width="48px" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/1.png" alt="Donate for Archcraft on ko-fi"></a>&nbsp;
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6VETHHYHXESRN"><img width="48px" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/2.png" alt="Donate for Archcraft via Paypal"></a>&nbsp;
-  <a href="https://liberapay.com/adi1090x"><img width="48px" src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/3.png" alt="Donate for Archcraft via Liberapay"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/downloads/archcraft-os/releases/total?label=downloads&logo=github&color=blue&style=for-the-badge">&nbsp;
-  <img src="https://img.shields.io/sourceforge/dt/archcraft.svg?label=downloads&logo=sourceforge&color=teal&style=for-the-badge">
+  <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" alt="Archcraft"></a>
 </p>
 
 <h4 align="center">Yet another minimal linux distribution, based on <a href="https://www.archlinux.org">Arch Linux</a>.</h4>
@@ -26,3 +15,7 @@
 </p>
 
 ![img](https://raw.githubusercontent.com/archcraft-os/core-packages/main/calamares-config/files/calamares/branding/archcraft/welcome.png)
+
+<p align="center">
+Archcraft is an <b>arch-based</b> rolling-release distribution aimed at users who cares more about <b><i>minimalism and aesthetics</i></b> of their desktop. It comes pre-configured with various lightweight applications which makes it super fast. It can run under 500Mb of memory. There are two window managers installed by default, <b>Openbox</b> and <b>Bspwm</b>.
+</p>
