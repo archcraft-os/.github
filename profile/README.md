@@ -14,7 +14,9 @@
 	<a href="https://matrix.to/#/#archcraft:matrix.org" target="_blank"><img alt="matrix" src="https://img.shields.io/badge/MATRIX-0ebd8b?style=flat-square"></a>
 </p>
 
-![img](https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/main.png)
+<p align="center">
+	<a href="https://gallery.archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/main.png" alt="Archcraft"></a>
+</p>
 
 <p align="center">
 	Archcraft is an <b>arch-based</b> rolling-release distribution aimed at users who cares more about <b><i>minimalism and aesthetics</i></b> of their desktop. It comes pre-configured with various lightweight applications which makes it super fast. It can run under 500Mb of memory. There are two window managers installed by default, <b>Openbox</b> and <b>Bspwm</b>.
