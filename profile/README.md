@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-	Archcraft is an <b>arch-based</b> rolling-release distribution aimed at users who cares more about <b><i>minimalism and aesthetics</i></b> of their desktop. It comes pre-configured with various lightweight applications which makes it super fast. It can run under 500Mb of memory. There are two window managers installed by default, <b>Openbox</b> and <b>Bspwm</b>.
+	Archcraft is an <b>arch-based</b> rolling-release distribution aimed at users who cares more about <b><i>minimalism and aesthetics</i></b> of their desktop. It comes pre-configured with various lightweight applications which makes it super fast. It can run under 800Mb of memory. There are two window managers (<b>Openbox</b> and <b>Bspwm</b>) and one wayland compositor (<b>Sway</b>) installed by default.
 </p>
