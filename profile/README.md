@@ -15,6 +15,7 @@
   <a href="https://archcraft.io"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-62aeef?style=flat-square"></a>
   <a href="https://wiki.archcraft.io"><img alt="Documentation" src="https://img.shields.io/badge/DOCUMENTATION-98c379?style=flat-square"></a>
   <a href="https://gallery.archcraft.io"><img alt="Gallery" src="https://img.shields.io/badge/GALLERY-c778dd?style=flat-square"></a>
+  <a href="https://www.youtube.com/@adityashakya"><img alt="Youtube" src="https://img.shields.io/badge/YOUTUBE-FF0033?style=flat-square"></a>
   <a href="https://www.reddit.com/r/archcraft"><img alt="Reddit" src="https://img.shields.io/badge/REDDIT-f74300?style=flat-square"></a>
   <a href="https://discord.gg/3PzeJ5S7Pu"><img alt="Discord" src="https://img.shields.io/badge/DISCORD-5865f2?style=flat-square"></a>
   <a href="https://t.me/archcraftos"><img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-2399d6?style=flat-square"></a>
